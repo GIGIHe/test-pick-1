@@ -23,3 +23,8 @@ function niunu(){
 function zhuzhu(){
   console.log(7890)
 }
+var obj1 = {}
+var obj2 = {}
+var obj3 = {}
+var obj4 = {}
+var obj5 = {}
