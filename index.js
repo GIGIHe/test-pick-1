@@ -28,3 +28,4 @@ var obj2 = {}
 var obj3 = {}
 var obj4 = {}
 var obj5 = {}
+let main = 'main'
