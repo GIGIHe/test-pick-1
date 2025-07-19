@@ -14,3 +14,4 @@ let obj =  {
 function sayHello(){
   console.log('obj is',obj)
 }
+var fun1 = ()=>{console.log('log')}
