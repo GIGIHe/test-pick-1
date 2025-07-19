@@ -2,4 +2,7 @@ const a = 1;
 function fn (){
   console.log('test')
 }
-const newBai = 'newbai'
+console.log('github')
+function fn2(){
+  console.log('fn2')
+}
