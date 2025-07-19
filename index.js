@@ -25,3 +25,7 @@ function niunu(){
 function zhuzhu(){
   console.log(7890)
 }
+let str1 = ''
+let str2 = ''
+let str3 = ''
+let str4 = ''
