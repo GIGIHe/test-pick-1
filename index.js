@@ -14,3 +14,14 @@ let obj =  {
 function sayHello(){
   console.log('obj is',obj)
 }
+function see(){
+  console.log('see')
+}
+let sayHello = 'hello,world!'
+let flag = true
+function niunu(){
+  console.log('moumou')
+}
+function zhuzhu(){
+  console.log(7890)
+}
